@@ -8,7 +8,7 @@ Exercises in GitHub fork/pull, issues, milestones, releases, projects, pages, we
 
 |Label|Class|Meaning|
 |-----|-----|-------|
-|jan2018semester||applies to markfirmware/ultibo-groupstudy-jan2018|
+|jan2018semester||applies to https://github.com/markfirmware/ultibo-groupstudy-jan2018|
 |m-cec|mission|consumer electronic control|
 |m-diagnostic-console|mission|diagnostic console|
 |m-openvg-clock|mission|clock display using openvg|
