@@ -1,2 +1,3 @@
 # excercises
-Exercises in GitHub issues, releases, projects, wikis
+
+Exercises in GitHub fork/pull, issues, milestones, releases, projects, pages, webhooks, branches, api
