@@ -6,7 +6,7 @@ PREFIX=multifunction-also-needs-firmware-
 ZIPFILE=$PREFIX$VERSION.zip
 PATH=$HOME/hub-linux-arm-2.3.0-pre10/bin:$PATH
 
-pushd ../ultibo-groupstudy-jan2018/student/markfirmware/multifunction
+pushd ../../../ultibo-groupstudy-jan2018/student/markfirmware/multifunction
     ./build.sh
     cp kernel7.img multifunction-kernel7.img
     zip $ZIPFILE multifunction-kernel7.img multifunction-config.txt multifunction-cmdline.txt
