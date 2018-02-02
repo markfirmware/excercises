@@ -2,6 +2,8 @@
 
 Exercises in GitHub fork/pull, issues, milestones, releases, projects, pages, webhooks, branches, api, gists
 
+In particular, markfirmware is using this repo to develop issue and release work flows for the [semester project](https://github.com/markfirmware/ultibo-groupstudy-jan2018)
+
 ## Issues
 
 ### Issue Labels
