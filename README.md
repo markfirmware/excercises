@@ -8,7 +8,7 @@ In particular, markfirmware is using this repo to develop issue and release work
 |----|
 |[sw02 issues](https://github.com/markfirmware/ultibo-exercises/issues?utf8=%E2%9C%93&q=milestone%3Asw02)|
 |[sw03 issues](https://github.com/markfirmware/ultibo-exercises/issues?utf8=%E2%9C%93&q=milestone%3Asw03)|
-|sw04 issues|
+|[sw04 issues](https://github.com/markfirmware/ultibo-exercises/issues?utf8=%E2%9C%93&q=milestone%3Asw04)|
 |sw05 issues|
 |sw06 issues|
 |sw07 issues|
